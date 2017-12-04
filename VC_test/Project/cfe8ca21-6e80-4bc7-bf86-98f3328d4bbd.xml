@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <data>
   <MappedVariableIds>
-    <MappedVariableId PortId="b5acc8b2-0c2b-4662-af80-580c96281ab6">
+    <MappedVariableId PortId="fd1f4234-fbd8-4a90-8f2a-1478abb5afcb">
       <MappedVariable VariableId="4674a101-7126-4422-aeee-e65b2ba5550f" />
     </MappedVariableId>
-    <MappedVariableId PortId="9e932fb3-be9d-49ba-86f4-68a008de317f">
+    <MappedVariableId PortId="b3e30aa6-089d-436b-a0c3-ef6e5fc3d1de">
       <MappedVariable VariableId="7040ec5c-cbd6-428d-a4f2-d8f2c4e08f5b" />
     </MappedVariableId>
   </MappedVariableIds>
