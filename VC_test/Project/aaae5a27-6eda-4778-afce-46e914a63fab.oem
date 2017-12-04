@@ -247,7 +247,7 @@
           </Entity>
         </ChildEntities>
       </Entity>
-      <Entity type="Device" subtype="NA" id="09e414a4-9436-4408-9204-3326476d6a40" name="HMI_NA5_0" version="0" dateCreated="12/04/2017 15:10:56" dateLastModified="12/04/2017 15:12:46" trackingId="9339c0a1-9425-4bae-818f-112da6b6acff" DN="HMI_NA5_0" hash="d0a12769907db337cbd2874fe29ab0d9" DHS="6d39c6806739db3db732dc8104a072a6" TH="3bde37bc04c21109657e263ec92f16b1">
+      <Entity type="Device" subtype="NA" id="09e414a4-9436-4408-9204-3326476d6a40" name="HMI_NA5_0" version="0" dateCreated="12/04/2017 15:10:56" dateLastModified="12/04/2017 15:12:46" trackingId="9339c0a1-9425-4bae-818f-112da6b6acff" DN="HMI_NA5_0" hash="d0a12769907db337cbd2874fe29ab0d9" DHS="c602a0a7e8d7dc11d0f218c73282a65a" TH="61c11a5067c5f2ad7833626864789feb">
         <AccessInfos />
         <ChildEntities>
           <Entity type="Watch" subtype="" id="e8f28132-f28e-47d9-820e-95706127ced6" name="Watch" version="0" dateCreated="12/04/2017 15:10:56" trackingId="caa125c2-f3e4-4f2e-9492-26920610a890">
@@ -264,7 +264,7 @@
               <Entity type="InternalDeviceReferences" subtype="" id="699bdcb4-defe-44d7-b51c-d95048f32d78" name="Internal Devices" version="0" dateCreated="12/04/2017 15:10:56" dateLastModified="12/04/2017 15:12:46" trackingId="e958df4f-fc6e-4637-80b1-5de4e8f5b0f3" DN="Internal Devices">
                 <AccessInfos />
                 <ChildEntities>
-                  <Entity type="DeviceReference" subtype="InternalDevice" id="bf54015d-2f39-463c-88bf-725e84f033df" name="new_Controller_0" version="0" dateCreated="12/04/2017 15:10:57" dateLastModified="12/04/2017 15:40:58" trackingId="1f9daed3-74ba-4e60-b1fb-44c777c645e8" DN="new_Controller_0" hash="f76ddf1bb159325357b16da75a2c0b95">
+                  <Entity type="DeviceReference" subtype="InternalDevice" id="bf54015d-2f39-463c-88bf-725e84f033df" name="new_Controller_0" version="0" dateCreated="12/04/2017 15:10:57" dateLastModified="12/04/2017 16:07:27" trackingId="1f9daed3-74ba-4e60-b1fb-44c777c645e8" DN="new_Controller_0" hash="2de6c19463a67f2b4c96579f8c24f1c5">
                     <AccessInfos />
                     <ChildEntities>
                       <Entity type="DataType" subtype="" id="17d8a4f7-e37f-4ec1-970b-00d341544aa6" name="Data Types0" version="0" dateCreated="12/04/2017 15:10:57" dateLastModified="12/04/2017 15:10:57" trackingId="737d5e06-fbf4-4a74-9da2-dcf65e34fbfa">
@@ -282,14 +282,14 @@
               </Entity>
             </ChildEntities>
           </Entity>
-          <Entity type="IOMap" subtype="" id="cfe8ca21-6e80-4bc7-bf86-98f3328d4bbd" name="Variable Mapping" version="0" dateCreated="12/04/2017 15:10:56" dateLastModified="12/04/2017 15:40:58" trackingId="d120a471-5a00-4990-b97f-86ea822620a8" DN="Variable Mapping" hash="198d58c046c1509bb99cbd5871aef9e8">
+          <Entity type="IOMap" subtype="" id="cfe8ca21-6e80-4bc7-bf86-98f3328d4bbd" name="Variable Mapping" version="0" dateCreated="12/04/2017 15:10:56" dateLastModified="12/04/2017 16:07:27" trackingId="d120a471-5a00-4990-b97f-86ea822620a8" DN="Variable Mapping" hash="d9614b7405dfc7ad9dc9808c9c73ca13">
             <AccessInfos />
             <ChildEntities />
           </Entity>
           <Entity type="HmiPagesGroup" subtype="MainPagesGroup" id="8788b194-2428-4b20-be25-7ba75e992025" name="Pages" version="0" dateCreated="12/04/2017 15:10:56" dateLastModified="12/04/2017 15:16:37" trackingId="7b568264-9b51-426a-a71d-0f75f063b3ee" DN="Pages">
             <AccessInfos />
             <ChildEntities>
-              <Entity type="HmiPage" subtype="GraphicalPage" id="68baa9ef-d557-41a7-9ef1-7adf9dd9737b" name="Page0" version="0" dateCreated="12/04/2017 15:10:57" dateLastModified="12/04/2017 15:12:46" trackingId="14dca5d8-f1c0-4fba-93e6-e5b59e8c637f" hash="9816afa2f35dcd3718753d5e50a38d22">
+              <Entity type="HmiPage" subtype="GraphicalPage" id="68baa9ef-d557-41a7-9ef1-7adf9dd9737b" name="Page0" version="0" dateCreated="12/04/2017 15:10:57" dateLastModified="12/04/2017 16:07:27" trackingId="14dca5d8-f1c0-4fba-93e6-e5b59e8c637f" hash="294ac4beed52105540c7fef45d549075">
                 <AccessInfos />
                 <ChildEntities>
                   <Entity type="HmiPage" subtype="VisualBasicPage" id="636ece8c-4b41-4444-a24f-2633322d701b" name="Page.vb" version="0" dateCreated="12/04/2017 15:10:57" dateLastModified="12/04/2017 15:10:57" trackingId="05d9fbe5-8784-4912-a0a2-d53820747c7f">
@@ -371,7 +371,7 @@
                   </Entity>
                 </ChildEntities>
               </Entity>
-              <Entity type="Variables" subtype="MemoryVariables" id="f48bae87-79d9-451f-9306-efc6a43158ba" name="Global Variables" version="0" dateCreated="12/04/2017 15:10:56" dateLastModified="12/04/2017 15:40:58" trackingId="e793e4ed-624e-4949-ae2c-f6ddc821bd2f" DN="Global Variables" hash="92e12cae87933aa3331301a607b39882">
+              <Entity type="Variables" subtype="MemoryVariables" id="f48bae87-79d9-451f-9306-efc6a43158ba" name="Global Variables" version="0" dateCreated="12/04/2017 15:10:56" dateLastModified="12/04/2017 16:07:27" trackingId="e793e4ed-624e-4949-ae2c-f6ddc821bd2f" DN="Global Variables" hash="92e12cae87933aa3331301a607b39882">
                 <AccessInfos />
                 <ChildEntities />
               </Entity>
