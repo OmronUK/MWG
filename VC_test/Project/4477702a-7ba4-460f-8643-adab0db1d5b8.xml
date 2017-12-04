@@ -3,6 +3,8 @@ _EN=Variables
 +GN=VAR	GVT=DefaultGroup
 ++D=BOOL	N=testIN	G=VAR
 ++D=BOOL	N=testOUT	G=VAR
+++D=BOOL	N=GBCOOL	G=VAR
+++D=BOOL	N=GBNOTCOOL	G=VAR
 ++D=BOOL	N=GBIN	G=VAR
 ++D=BOOL	N=GBOUT	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
