@@ -1,6 +1,8 @@
 [SLWD version=1.0]
 _EN=Variables
 +GN=VAR	GVT=DefaultGroup
+++D=BOOL	N=GBSupremeBeing	G=VAR
+++D=BOOL	N=GBSupremeBeingMaster	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
 ++D=BOOL	N=testIN	G=VAR_EXTERNAL
 ++D=BOOL	N=testOUT	G=VAR_EXTERNAL
